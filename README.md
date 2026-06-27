@@ -2,7 +2,7 @@
 
 A practice sheet for dictionaries and sets
 
-> git clone [github.com/FatimaZN/Assignment_W2_D2.git](https://github.com/FatimaZN/Assignment_W2_D2.git)
+> git clone https://github.com/FatimaZN/Practice_W2_D2.git 
 
 
 # Code to AI — Week 2, Day 2 (PRACTICE/LEARN)
